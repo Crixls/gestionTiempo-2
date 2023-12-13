@@ -1,0 +1,32 @@
+
+img{
+  width: 10%;
+  height: auto;
+}
+
+.mainDiv{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.card{
+  justify-content: flex;
+  margin: 30px;
+  width: 60%;
+  border-radius: 30px;
+  text-align: center;
+  background-color: aquamarine;
+}
+
+#divCard{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.extra{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
